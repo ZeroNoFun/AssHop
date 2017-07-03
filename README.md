@@ -8,5 +8,5 @@ licensed by WTFPL (Do What the Fuck You Want To Public License)
 
 FAQ:
 
-Q: How long did it take you to write this ?
-A: Took 3 hours (cuz i'm retard0
+Q- How long did it take you to write this ?
+A- Took 3 hours (cuz i'm retard)
